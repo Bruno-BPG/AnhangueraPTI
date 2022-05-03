@@ -3,7 +3,7 @@ let Senha = document.querySelector(".Senha")
 
 const pessoasobj = []
 
-let btnlogin = document.getElementById("register-button")
+let btnlogin = document.getElementById("login-button")
 btnlogin.addEventListener("click" , resultados)
 
 function resultados (value){
