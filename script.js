@@ -13,7 +13,7 @@ if(Usuário.value == ""){
     return "login falhou"
 }
 if(Senha.value == ""){
-    alert("digite seu Senha")
+    alert("digite sua Senha")
     return "falhou"
 }
 if(Usuário.value !== "" && Senha.value !== ""){
